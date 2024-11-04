@@ -1,5 +1,3 @@
-<p align="center"><img src="(https://github.com/user-attachments/assets/036d6fc5-81d1-4749-8cdd-36dda5bf34c9)" width="100%" height="auto"/></p>
-
 I'm **[`moscowchill`](https://x.com/moscowchill)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
 
