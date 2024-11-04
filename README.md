@@ -1,4 +1,4 @@
-<p align="center"><img src="![168561927459506756 (3)](https://github.com/user-attachments/assets/036d6fc5-81d1-4749-8cdd-36dda5bf34c9)" width="100%" height="auto"/></p>
+<p align="center"><img src="(https://github.com/user-attachments/assets/036d6fc5-81d1-4749-8cdd-36dda5bf34c9)" width="100%" height="auto"/></p>
 
 I'm **[`moscowchill`](https://x.com/moscowchill)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
@@ -10,8 +10,8 @@ I'm **[`moscowchill`](https://x.com/moscowchill)**, a hacker & Security Research
 - **Name**: moscowchill
 - **From**: The Netherlands
 - **Security Researcher** | **Penetration Tester** | **Security Engineer**
-- I have years of experience in pentesting,reverse Engineering,bug Hunting,forensics,Social engineering.
-- Reach me out at **gasgeverij@proton.me**
+- I have years of experience in pentesting,bug Hunting,forensics & social engineering.
+- Reach me at **gasgeverij@proton.me**
 
 </details>
 <br>
