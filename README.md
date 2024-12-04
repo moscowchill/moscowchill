@@ -71,5 +71,4 @@ I'm **[`moscowchill`](https://x.com/moscowchill)**, a hacker (OSCP certified sin
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=moscowchill&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/moscowchill/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=moscowchill&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/moscowchill/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moscowchill&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
