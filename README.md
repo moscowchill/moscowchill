@@ -73,5 +73,5 @@ I'm **[`moscowchill`](https://x.com/moscowchill)**, a hacker (OSCP certified sin
 </a>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=moscowchill&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=moscowchill" alt="GitHub Streak"/>
 </a>
