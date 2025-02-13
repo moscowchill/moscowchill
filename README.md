@@ -68,8 +68,6 @@ I'm **[`moscowchill`](https://x.com/moscowchill)**, a hacker (OSCP certified sin
 
 <h2 id="github_stats" align="center">GitHub Stats 👨‍💻</h2>
 
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
-
 <a href="https://github.com/moscowchill/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=moscowchill&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20" alt="Verse's GitHub stats"/>
 </a>
