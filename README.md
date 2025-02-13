@@ -1,4 +1,4 @@
-I'm **[`moscowchill`](https://x.com/moscowchill)**, a hacker (OSCP certified since 2019), security engineer and founder of [`DigitalGaurds`](https://x.com/digitalguards). <br>
+I'm **[`moscowchill`](https://x.com/moscowchill)**, a hacker (OSCP certified since 2019), security engineer and founder of [`DigitalGuards`](https://x.com/digitalguards). <br>
 
 <details>
   <summary>More about me</summary>
