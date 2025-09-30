@@ -1,8 +1,5 @@
 I'm moscowchill (Yes the name refers to the movie), offensive security engineer (OSCP certified since 2019).<br>
 
-</details>
-<br>
-
 ---
 
 <h2 id="present_status"> Present Status </h3>
