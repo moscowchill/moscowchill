@@ -1,13 +1,5 @@
 I'm moscowchill (Yes the name refers to the movie), offensive security engineer (OSCP certified since 2019).<br>
 
-<details>
-  <summary>More about me</summary>
-
-- **Name**: moscowchill
-- **From**: The Netherlands
-- **Security Researcher** | **Penetration Tester** | **Security Engineer**
-- I have years of experience in pentesting,bug Hunting,forensics & social engineering.
-
 </details>
 <br>
 
